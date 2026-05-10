@@ -10,4 +10,6 @@ This extension includes some of the most *horrendous* themes ever.
 ## preview screenshot
 
 ![preview](assets/preview.png)
+
+![preview](assets/preview2.png)
 </details>
