@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pastel:= View",
+        "label": "Pastel Mirage : l1_me",
         "uiTheme": "vs",
-        "path": "./themes/Pastel= View-color-theme.json"
+        "path": "./themes/l1_me.json"
       }
     ]
   }
