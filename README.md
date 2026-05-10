@@ -6,6 +6,7 @@ This extension includes some of the most *horrendous* themes ever.
 
 <details>
 <summary>You have been warned.</summary>
+
 ## preview screenshot
 
 ![preview](assets/preview.png)
