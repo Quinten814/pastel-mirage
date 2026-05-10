@@ -1,0 +1,21 @@
+{
+  "name": "pastel-mirage",
+  "displayName": "Pastel Mirage",
+  "description": "smoking window and connector is fun",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pastel:= View",
+        "uiTheme": "vs",
+        "path": "./themes/Pastel= View-color-theme.json"
+      }
+    ]
+  }
+}
